@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^19.7.2",
+    "sync-request": "^6.1.0"
+  }
+}
